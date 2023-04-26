@@ -5,3 +5,5 @@ write the changes, add comment and commit
 gitignore is to make sure not to send 1million file at the same time to gitHub
 
 if someone is going to read this they will laugh
+
+editor: this is how you learn
