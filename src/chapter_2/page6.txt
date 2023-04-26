@@ -1,0 +1,2 @@
+create a file write -> commit-> select only page6.txt
+write the correct message and commit
