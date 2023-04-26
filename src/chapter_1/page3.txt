@@ -1,0 +1,3 @@
+now I going to do some changes in page2.txt
+but before I make changes I will commit this file
+select only page3.txt add message and commit
